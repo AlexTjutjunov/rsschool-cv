@@ -32,6 +32,6 @@ individual learning with private mentor
 ===
 
 Languages
-Russian - C2
-Ukrainian - C2 (native)
-English - B2
+*Russian - C2
+*Ukrainian - C2 (native)
+*English - B2
